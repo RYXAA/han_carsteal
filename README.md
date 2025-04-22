@@ -10,7 +10,7 @@ Note: This is NOT a job. This is an illegal activity anyone can do.
 * Install into resources/[esx]
 * Add the following line to your server.cfg
 ```
-start hancarsteal
+start han_carsteal
 ```
 
 * If you want to change the stolen vehicle location update time, you have to set `Config.BlipUpdateTime` to whatever time you would like in milliseconds in `config.lua`.
